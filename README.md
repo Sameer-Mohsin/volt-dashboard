@@ -74,8 +74,8 @@ The dashboard includes a rich library of reusable components:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/volt-react-dashboard.git
-   cd volt-react-dashboard
+   git clone https://github.com/sam-mohsin01/volt-daashboard.git
+   cd volt-daashboard
    ```
 
 2. **Install dependencies**
